@@ -9,7 +9,7 @@ debe levantar un nuevo servidor, manual o automáticamente.
 - David Cacuango
 - Ivan Fraga
 
-#Imágenes en Kubernetes
+## Imágenes en Kubernetes
 
 <img src="https://github.com/AlmDiana/ProyectoAppsDistribuidas/blob/master/img/dash.jpg" alt="img1"/>
 
