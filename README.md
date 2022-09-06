@@ -10,6 +10,6 @@ debe levantar un nuevo servidor, manual o automáticamente.
 - Ivan Fraga
 
 ## Enlaces a videos:
-> ######  [Explicación Técnica](https://youtube.com)
+> ######  [Explicación Técnica](https://youtu.be/T1SgVZopxSE)
 
 > ######  [Manual de usuario](https://youtu.be/MsEs8JwysdI)
