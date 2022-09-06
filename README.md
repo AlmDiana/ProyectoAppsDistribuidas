@@ -15,8 +15,6 @@ debe levantar un nuevo servidor, manual o automáticamente.
 
 <img src="https://github.com/AlmDiana/ProyectoAppsDistribuidas/blob/master/img/board.jpg" alt="img2"/>
 
-<img src="https://github.com/BryanArmando/ConvertidorDivisa/blob/master/Images/img2.jpg" alt="img2"/>
-
 ## Enlaces a videos:
 > ######  [Explicación Técnica](https://youtu.be/T1SgVZopxSE)
 
