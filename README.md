@@ -12,4 +12,4 @@ debe levantar un nuevo servidor, manual o automáticamente.
 ## Enlaces a videos:
 > ######  [Explicación Técnica](https://youtube.com)
 
-> ######  [Manual de usuario](https://youtube.com)
+> ######  [Manual de usuario](https://youtu.be/MsEs8JwysdI)
